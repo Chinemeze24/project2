@@ -1,0 +1,85 @@
+h1{
+    background-color: blue;
+    color: aqua;
+    text-align: center;
+    border-radius: 300px;
+    width: 500px;
+    display: block;
+    margin: auto;
+
+}
+
+img{
+    height: 300px;
+    width: 300px;
+    border-radius: 250px;
+    display: block;
+    margin: auto;
+}
+
+p{
+    text-align: center;
+    padding: 15px;
+    display: block;
+    margin: auto;
+    background-color: blue;
+    width: 300px;
+}
+
+.grid {
+    display: grid;
+}
+
+form{
+    display: block;
+    margin: auto;
+    width: 330px;
+    background-color:brown;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.all-inputs{
+    margin-left: 20px;
+    width: 280px;
+    height: 28px;
+}
+
+input{
+    margin-top: 0;
+    margin-bottom: 0;
+
+}
+#button{
+    margin-top: 18px;
+    width: 288px;
+    height: 40px;
+}
+#track{
+    margin-left: 20px;
+}
+
+div{
+   width: 600px;
+   margin: auto;
+
+}
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #dddddd;
+  }
+  
