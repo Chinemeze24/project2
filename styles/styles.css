@@ -9,6 +9,14 @@ h1{
 
 }
 
+h2{
+    background-color: #dddddd;
+    border-radius: 500px;
+    text-align: center;
+    display: block;
+    width: 330px;
+    margin: auto;
+}
 img{
     height: 300px;
     width: 300px;
@@ -16,6 +24,8 @@ img{
     display: block;
     margin: auto;
 }
+
+
 
 p{
     text-align: center;
@@ -68,9 +78,10 @@ div{
 }
 
 table {
-    font-family: arial, sans-serif;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     border-collapse: collapse;
-    width: 100%;
+    width: 700px;
+    font-size: medium;
   }
   
   td, th {
@@ -83,3 +94,6 @@ table {
     background-color: #dddddd;
   }
   
+  table, th, td {
+    border:3px solid black;
+  }
